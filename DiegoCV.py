@@ -22,7 +22,7 @@ st.markdown(
 col1, col2 = st.columns([1,1.5])
 #COLUMNA 1
 with col1:
-    st.image("https://drive.google.com/file/d/1Urwso8Fw74gBZwZ7Skm5brHRlvhxI6ls/view?usp=sharing")
+    st.image("DiegoCV1.jpeg",width=160)
  
     st.markdown("#### **EDUCACION**") 
     st.markdown("###### Universidad Panamericana Campues Guadalajara Lic. Administración y Finanzas EN CURSO ")
